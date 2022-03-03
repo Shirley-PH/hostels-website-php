@@ -1,0 +1,25 @@
+
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
+
+html {
+  box-sizing: border-box;
+  font-size: 50.5%; /* Resetea el contenido 1rem = 62.5% = 10px de 16px*/
+}
+
+body {
+  font-family: "lato", sans-serif;
+  line-height: 2;
+  font-size: 1.5rem;
+  margin: 0%;
+}
+header {
+  max-width: 100%;
+}
+*,
+*::after,
+*::after {
+  box-sizing: inherit;
+}
+main {
+  margin: 2rem;
+}
