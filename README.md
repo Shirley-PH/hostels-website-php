@@ -10,6 +10,8 @@ This web page works with XAMP to which the database is communicated in MySQL (Ma
 - It starts at localhost in your PC
 - New hotels or jobs can be added from the database
 
+This project is still under development and requires many improvements and modifications so that it can be executed online and not from XAMP
+
 ## Demo
 
 Insert gif or link to demo
